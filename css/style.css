@@ -1,0 +1,17 @@
+* {
+	background-color: bisque;
+	color: brown;
+	font-family: Copse; 
+}
+body {
+	margin: 100px;
+}
+h2, h3 {
+	border-top: 1px solid brown;
+}
+img	{
+	width: 100%;
+}
+caption {
+	text-align: center;
+}
